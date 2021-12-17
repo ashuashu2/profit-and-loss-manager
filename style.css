@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(207, 209, 76);
+    
+
+    
+    text-align: center;
+}
+h1{
+    font-weight: lighter;
+    margin-top: 3rem;
+    font-weight: bolder;
+   font-size: xx-large;
+}
+#initial-price{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+    height: 5vh;
+   
+   
+
+}
+#quantity-of-stock{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+    height: 5vh;
+   
+
+}
+
+#current-price{
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding: 0.3rem;
+    border-color: darkslateblue;
+    height: 5vh;
+    
+   
+
+}
+
+label{
+    font-size: xx-large;
+
+    display: block;
+    padding-top: 1rem;
+}
+button{
+    font-size: large;
+    margin-top: 0.3rem;
+    border-color: darkslateblue;
+    cursor: pointer;
+}
+
+#output-box{
+    
+font-size: xx-large;
+margin-top: 1rem;
+font-weight: bolder;
+}
