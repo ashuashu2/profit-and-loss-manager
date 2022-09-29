@@ -18,7 +18,7 @@ function checkButtonHandler () {
      
     }
     else{
-        outputBox.innerHTML="enter both feild "
+        outputBox.innerHTML="Please Enter All The Feild "
         
 
        
